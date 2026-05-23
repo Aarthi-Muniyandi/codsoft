@@ -94,9 +94,9 @@ JDK
 Console-Based Applications
 Internship Information
 
-# Company: CodSoft
-# Domain: Java Programming Internship
-# Role: Java Programming Intern
+### Company: CodSoft
+### Domain: Java Programming Internship
+#### Role: Java Programming Intern
 
 # Conclusion
 
